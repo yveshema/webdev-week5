@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webdev-week5/static/css/main.a8094580.css",
+    "main.js": "/webdev-week5/static/js/main.b7c9116f.js",
+    "index.html": "/webdev-week5/index.html",
+    "main.a8094580.css.map": "/webdev-week5/static/css/main.a8094580.css.map",
+    "main.b7c9116f.js.map": "/webdev-week5/static/js/main.b7c9116f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8094580.css",
+    "static/js/main.b7c9116f.js"
+  ]
+}
